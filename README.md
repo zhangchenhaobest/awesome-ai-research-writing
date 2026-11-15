@@ -1,3 +1,29 @@
+# awesome-ai-research-writing
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Elevate your AI research writing, no more tedious polishing ✨
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+提升 AI 科研写作质量、免去繁琐润色的资源合集。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 > Make AI Writing Better for Everyone
 
 ## 📖 为什么做这个项目
